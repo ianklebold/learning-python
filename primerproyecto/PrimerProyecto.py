@@ -1,0 +1,1 @@
+print("The beer is called \n\""+input("Input the name of your pet : ") +" "+input("Input the first name of the movie : ")+"\"")
